@@ -8,7 +8,8 @@
 - [x] Business Problem 
 - [x] Data collection
 - [x] Data cleaning
-- [x]  
+- [x] Exploratory data analysis
+- [x] Insights
 - [x] Presentation 
 
 ### 1. Business problem
