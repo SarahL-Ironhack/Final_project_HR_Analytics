@@ -3,8 +3,8 @@
 
 ## SUMMARY 
 
-[x] Business Problem
-[x] Process
-[x] Presentation
+[x] Business Problem 
+[x] Process 
+[x] Presentation 
 
 ### BUSINESS PROBLEM 
