@@ -1,0 +1,230 @@
+,company,hierarchy_level,job_field,job_since,years_at_job,company2,hierarchy_level2,job_field2,school,job2_start,job2_end2,job2_duration,approx_work_xp
+0,other,Head,IT/Data,2020,2,other,Senior,Consultant,ecole centrale de nantes,2019,2022,3,7
+1,other,Founder,Business,2018,4,other,Employee,other,ESSEC,2020,2022,2,5
+2,other,VP,Business,2021,1,other,Director,other,université de bordeaux,2020,2021,1,25
+3,other,Lead,Business,2020,2,other,Manager,Business,join lion,2018,2020,2,1
+4,other,Head,Business,2021,1,Criteo,Lead,IT,burgundy school of business,2018,2021,3,13
+5,other,CXO,HR,2021,1,other,Head,HR,igs-rh,2019,2021,2,3
+6,other,Employee,Consultant,2017,5,other,CXO,Business,SUPELEC,2018,2020,2,10
+7,other,Director,IT/Data,2022,0,other,Manager,IT/Data,KEDGE,2019,2022,3,12
+8,other,Manager,Marketing,2020,2,other,Manager,Marketing,esc amiens,2017,2020,3,13
+9,other,Manager,Product,2021,1,other,Manager,Product,noé,2021,2021,0,1
+10,other,Manager,Business,2019,3,Criteo,Employee,Business,neoma business school,2016,2019,3,7
+11,Criteo,Employee,IT/Data,2011,3,other,Employee,IT,"university of california, los angeles",2008,2010,2,15
+12,other,Director,IT/Data,2022,0,other,Director,IT/Data,SKEMA,2019,2022,3,16
+13,other,Senior,Business,2019,3,other,Director,Business,sciences po,2017,2019,2,1
+14,other,Employee,Business,2015,7,other,Head,Marketing,cornell university,2017,2022,5,14
+15,other,CXO,HR,2021,1,other,Head,HR,bem bordeaux ecole de management,2019,2021,2,11
+16,other,CXO,Business,2021,1,other,CXO,Marketing,ESSEC,2015,2021,6,15
+17,other,Head,IT/Data,2020,2,other,Employee,Consultant,HEC,2020,2022,2,15
+18,other,Manager,Operations,2021,1,Criteo,Manager,Business,GEM,2018,2021,3,-1
+19,other,Manager,Product,2021,1,other,Head,Product,SUPELEC,2019,2021,2,15
+20,other,Employee,Business,2021,1,other,Employee,Business,ESSCA,2019,2021,2,4
+21,other,Head,HR,2021,1,Criteo,Manager,HR,igs paris,2018,2021,3,8
+22,other,Lead,Business,2020,2,Criteo,Manager,HR,cnfdi,2018,2020,2,10
+23,other,Lead,HR,2020,2,other,Senior,Product,rouen business school,2019,2020,1,6
+24,other,Manager,Business,2020,2,other,Employee,Business,toulouse school of management,2019,2019,0,4
+25,other,Founder,Business,2019,3,Criteo,Senior,IT/Data,imperial college london,2018,2019,1,9
+26,other,Head,Business,2018,4,other,Manager,IT/Data,HEC,2018,2018,0,5
+27,other,Director,IT/Data,2021,1,other,Head,Product,ecole nationale d'administration,2021,2021,0,16
+28,other,Manager,IT/Data,2021,1,other,Manager,Business,audencia business school,2020,2021,1,6
+29,other,VP,IT,2021,1,Criteo,Director,IT,smith college,2020,2021,1,13
+30,other,Manager,Business,2021,1,other,Employee,IT,esc la rochelle,2020,2021,1,8
+31,other,Founder,Marketing,2020,2,other,Head,Marketing,ESSEC,2019,2021,2,18
+32,other,Founder,Business,2015,7,other,Founder,Business,esiea - école d'ingénieur·e·s d'un numérique utile,2021,2022,1,26
+33,other,Lead,Marketing,2020,2,other,VP,IT,ecole de management de lyon,2020,2020,0,19
+34,other,Lead,IT/Data,2021,1,other,Employee,Business,HEC,2017,2021,4,9
+35,other,Head,IT/Data,2021,1,other,Head,IT/Data,ESSEC,2019,2021,2,15
+36,other,Director,Business,2022,0,other,Manager,Business,ecole supérieure de gestion,2018,2022,4,12
+37,other,CXO,Marketing,2019,3,other,VP,Marketing,inseec business school,2018,2019,1,9
+38,other,Head,Product,2021,1,other,CXO,Business,Université Paris Dauphine,2019,2022,3,10
+39,other,Senior,Business,2018,4,other,Head,Business,audencia group - sciencescom,2016,2022,6,-1
+40,other,CXO,Board/CEO,2019,3,other,Employee,other,SUPELEC,2015,2022,7,6
+41,other,Manager,Product,2021,1,other,Employee,Product,noé,2019,2022,3,2
+42,other,Head,IT/Data,2021,1,Criteo,Senior,IT/Data,politecnico di milano,2019,2022,3,9
+43,other,Employee,Account Strategist,2021,1,other,Employee,Account Strategist,unknown,2020,2022,2,-1
+44,other,Head,Product,2019,3,other,Head,Product,école polytechnique,2019,2022,3,8
+45,other,Director,Marketing,2020,2,other,Director,Marketing,efficom paris,2020,2022,2,16
+46,other,Manager,IT/Data,2022,0,other,Employee,IT/Data,SUPELEC,2020,2022,2,3
+47,other,CXO,Board/CEO,2018,4,Criteo,Employee,IT/Data,école polytechnique,2017,2022,5,4
+48,other,Manager,Product,2021,1,other,Lead,IT,pepperdine graziadio business school,2021,2022,1,2
+49,other,Employee,Business,2019,3,other,Employee,Account Strategist,KEDGE,2018,2022,4,6
+50,other,CXO,Operations,2021,1,Criteo,CXO,IT,ecole supérieure de commerce / iae de montpellier,2020,2022,2,22
+51,other,Founder,Business,2020,2,other,Employee,Business,Mines,2019,2022,3,7
+52,other,Employee,Consultant,2021,1,other,Employee,IT,northwestern university,2020,2022,2,12
+53,other,Lead,IT,2017,5,other,Employee,IT/Data,epitech - european institute of technology,2013,2022,9,10
+54,other,Founder,Business,2021,1,Criteo,VP,IT/Data,SUPELEC,2019,2022,3,23
+55,other,Founder,Business,2020,2,other,Head,IT/Data,SUPELEC,2019,2022,3,8
+56,other,CXO,HR,2021,1,other,Director,Business,EMLYON,2021,2022,1,4
+57,other,Lead,Product,2020,2,other,Senior,Product,polytech montpellier,2019,2022,3,13
+58,other,Lead,Business,2021,1,other,Employee,Account Strategist,HEC,2021,2022,1,3
+59,other,CXO,Marketing,2019,3,other,Employee,Consultant,unknown,2018,2022,4,-1
+60,other,Founder,Business,2019,3,other,Employee,Business,HEC,2018,2022,4,-1
+61,other,Senior,IT/Data,2021,1,other,Lead,IT,GEM,2020,2022,2,10
+62,Criteo,Head,Finance,2018,4,other,Employee,other,ecole de la chambre de commerce de paris,-1,-1,0,38
+63,other,Director,Business,2020,2,other,Director,Business,unknown,2018,2022,4,-1
+64,other,CXO,Finance,2021,1,Criteo,CXO,Finance,audencia,2017,2022,5,26
+65,other,Senior,Business,2021,1,other,Manager,Business,esc pau business school,2019,2022,3,6
+66,other,Employee,other,2020,2,other,Founder,Business,ESCP,2018,2022,4,3
+67,other,Senior,Account Strategist,2018,4,other,Employee,Business,euridis business school,2017,2022,5,6
+68,other,VP,Product,2021,1,other,VP,Business,unknown,2020,2022,2,-1
+69,other,CXO,Product,2020,2,Criteo,Director,Product,"university of california, berkeley",2016,2022,6,20
+70,Criteo,Employee,Finance,2018,4,other,Employee,Marketing,paris school of business,2017,2022,5,2
+71,Criteo,Employee,IT/Data,2015,7,other,Employee,IT/Data,EFREI,2013,2022,9,9
+72,other,Director,IT/Data,2021,1,Criteo,Manager,IT/Data,ecole superieure des ingenieurs de beyrouth,2020,2022,2,13
+73,other,Employee,other,2020,2,Criteo,Senior,IT/Data,epitech - european institute of technology,2019,2022,3,8
+74,other,CXO,IT/Data,2020,2,other,President,IT/Data,ensiie - école nationale supérieure d'informatique pour l'industrie et l'entreprise,2019,2022,3,11
+75,other,Senior,IT/Data,2021,1,other,Senior,IT/Data,isae-supaero,2016,2022,6,8
+76,other,Head,Business,2021,1,other,Employee,Board/CEO,collège citoyen de france,2021,2022,1,0
+77,other,Founder,Business,2018,4,Criteo,Director,IT/Data,collège des ingénieurs,2013,2018,5,15
+78,other,Manager,Business,2021,1,Criteo,Employee,Account Strategist,neoma business school,2018,2021,3,5
+79,other,Employee,Product,2020,2,Criteo,Senior,IT/Data,ESCP,2018,2020,2,6
+80,other,Head,Marketing,2019,3,other,Employee,IT/Data,the family paris,2019,2019,0,7
+81,other,Head,Business,2021,1,other,Senior,Consultant,HEC,2019,2022,3,-1
+82,other,Founder,Business,2021,1,other,Employee,Finance,sciences po,2019,2021,2,3
+83,other,Head,IT/Data,2020,2,Criteo,Senior,Marketing,ISC,2019,2019,0,8
+84,other,Employee,Business,2019,3,other,Employee,Business,EFREI,2018,2019,1,7
+85,other,Manager,Product,2020,2,Criteo,Senior,IT/Data,université pierre et marie curie (paris vi),2018,2020,2,8
+86,other,Employee,IT,2017,5,Criteo,Lead,IT,ESSEC,2014,2017,3,8
+87,other,Founder,Business,2018,4,other,Employee,other,SUPELEC,2021,2022,1,-1
+88,other,Head,IT/Data,2021,1,Criteo,Employee,IT/Data,ecole centrale de paris,2020,2021,1,10
+89,other,CXO,other,2021,1,other,Employee,IT/Data,institut supérieur d'electronique de paris,2015,2021,6,28
+90,other,Employee,R&D,2021,1,Criteo,Employee,R&D,école normale supérieure paris-saclay,2020,2020,0,2
+91,other,Manager,IT/Data,2017,5,Criteo,Manager,IT/Data,SUPELEC,2016,2022,6,11
+92,other,Employee,IT/Data,2016,6,Criteo,Senior,IT/Data,HEC,2015,2022,7,10
+93,other,Employee,Business,2020,2,other,Employee,other,école polytechnique,2020,2022,2,10
+94,other,CXO,Business,2021,1,other,Employee,other,ISC,2019,2022,3,17
+95,other,Director,Business,2009,13,Criteo,Manager,IT/Data,the university of chicago booth school of business,2014,2022,8,-1
+96,other,Lead,IT/Data,2021,1,other,Employee,IT/Data,imt atlantique,2020,2022,2,5
+97,other,Director,Marketing,2020,2,Criteo,Head,Marketing,aix-marseille université,2019,2022,3,20
+98,other,Employee,IT,2021,1,Criteo,Senior,R&D,SUPELEC,2018,2022,4,12
+99,other,Director,Finance,2017,5,other,Manager,other,università bocconi,2016,2022,6,20
+100,other,Senior,IT/Data,2019,3,Criteo,Employee,IT/Data,enseirb-matmeca (bordeaux),2018,2022,4,9
+101,other,Employee,Product,2021,1,other,VP,Product,école polytechnique,2020,2022,2,10
+102,other,Director,Operations,1996,26,Criteo,Employee,Finance,centrale lille,2014,2022,8,29
+103,other,Senior,IT/Data,2019,3,Criteo,Senior,IT/Data,école polytechnique,2016,2022,6,10
+104,other,CXO,IT/Data,2020,2,other,Senior,R&D,université de bordeaux,2017,2022,5,15
+105,Criteo,Employee,IT/Data,2018,4,other,Employee,IT/Data,freie universität berlin,2014,2022,8,7
+106,Criteo,Employee,Consultant,2021,1,Criteo,Senior,IT/Data,INSEAD,2021,2021,0,0
+107,other,VP,Business,2021,1,other,Employee,other,le wagon,2019,2022,3,3
+108,other,Employee,IT/Data,2017,5,other,Employee,IT/Data,école supérieure d'électricité,2015,2017,2,9
+109,other,Employee,Marketing,2020,2,other,Senior,Marketing,ecole centrale de marseille,2019,2020,1,8
+110,other,Senior,R&D,2019,3,other,Employee,other,université paris-saclay,2019,2022,3,7
+111,other,Employee,other,2021,1,other,Employee,IT/Data,université savoie mont blanc,2021,2022,1,11
+112,other,Employee,IT/Data,2019,3,Criteo,Employee,IT/Data,Mines,2018,2022,4,5
+113,other,Director,Product,2021,1,other,Lead,IT,SUPELEC,2019,2022,3,8
+114,other,Employee,IT/Data,2020,2,other,Employee,Business,GEM,2019,2022,3,3
+115,other,Senior,IT/Data,2016,6,Criteo,Employee,IT/Data,SUPELEC,2011,2022,11,11
+116,other,Senior,Product,2021,1,Criteo,Senior,Product,institut ingemedia,2017,2022,5,-1
+117,other,Senior,IT/Data,2021,1,other,Employee,IT/Data,télécom paris,2019,2022,3,7
+118,other,Employee,IT/Data,2022,0,Criteo,Employee,IT/Data,institut national des sciences appliquées de toulouse,2020,2022,2,9
+119,other,Senior,Business,2018,4,Criteo,Manager,Business,gemma vassalo,2016,2022,6,3
+120,other,Employee,Finance,2020,2,Criteo,Lead,IT,Université Paris Panthéon-sorbonne,2019,2022,3,16
+121,other,Employee,IT/Data,2019,3,other,Lead,IT,new york university,2018,2022,4,10
+122,other,Manager,Product,2021,1,other,Manager,Product,ESCP,2020,2022,2,3
+123,other,Senior,Product,2017,5,other,Senior,Product,télécom paris,2016,2022,6,13
+124,other,Employee,IT/Data,2021,1,Criteo,Employee,IT/Data,петрозаводский государственный университет (петргу),2019,2022,3,7
+125,other,Employee,IT,2016,6,Criteo,Manager,Product,EPITA,2015,2022,7,15
+126,other,Manager,Finance,2021,1,other,Employee,IT/Data,EMLYON,2020,2022,2,6
+127,other,Employee,IT/Data,2016,6,other,Employee,Consultant,école polytechnique,2015,2022,7,7
+128,other,Employee,IT/Data,2019,3,other,Lead,IT,university of zagreb/sveuciliste u zagrebu,2018,2022,4,10
+129,other,Head,Product,2020,2,Criteo,Head,Business,Université Paris Panthéon-sorbonne,2019,2022,3,12
+130,other,Employee,IT/Data,2020,2,other,Employee,IT/Data,université paris-sud,2018,2022,4,11
+131,other,Employee,IT/Data,2020,2,other,Employee,IT/Data,ecole nationale supérieure de l'electronique et de ses applications,2018,2022,4,19
+132,other,Employee,Business,2019,3,other,Employee,Business,SUPELEC,2017,2022,5,10
+133,other,Employee,Operations,2021,1,other,Employee,IT/Data,HEC,2020,2022,2,5
+134,other,Founder,Business,2021,1,Criteo,Employee,IT/Data,HEC,2021,2022,1,-1
+135,other,Lead,HR,2021,1,other,Employee,other,unknown,2020,2022,2,-1
+136,other,Lead,IT/Data,2021,1,other,Employee,Consultant,KEDGE,2019,2022,3,4
+137,Criteo,Manager,Business,2014,8,other,Director,Business,unknown,2012,2022,10,-1
+138,other,Employee,IT/Data,2021,1,other,Employee,HR,omnes education,2020,2022,2,4
+139,other,Lead,IT/Data,2020,2,other,Lead,IT,institut catholique de paris,2020,2022,2,10
+140,Criteo,Employee,Business,2019,3,other,Employee,Business,SKEMA,2018,2022,4,4
+141,other,Director,Marketing,2021,1,other,Director,Marketing,celsa - ecole des hautes études en sciences de l'information et de la communication,2019,2022,3,13
+142,other,Employee,Business,2021,1,other,Manager,HR,igs,2021,2022,1,10
+143,other,Senior,HR,2020,2,other,Employee,other,ciffop,2019,2022,3,9
+144,other,Head,Account Strategist,2020,2,other,Manager,Business,esce international business school,2018,2022,4,12
+145,other,Employee,other,2016,6,other,CXO,HR,conservatoire national des arts et métiers,2016,2022,6,24
+146,other,Manager,Marketing,2021,1,other,Manager,Marketing,KEDGE,2020,2022,2,6
+147,other,Senior,IT/Data,2022,0,other,Senior,IT/Data,em normandie business school,2021,2022,1,8
+148,other,Head,Product,2021,1,other,Head,other,università degli studi di firenze,2020,2021,1,19
+149,other,Manager,Business,2020,2,other,Employee,IT/Data,sciences po,2020,2020,0,5
+150,other,Manager,Finance,2021,1,Criteo,Lead,IT,KEDGE,2020,2021,1,6
+151,other,Manager,IT/Data,2021,1,other,Manager,IT/Data,audencia nantes ecole de management,2020,2021,1,12
+152,other,Manager,HR,2019,3,other,Employee,Finance,ifocop - institut de formation professionnelle,2018,2018,0,7
+153,other,Senior,Account Strategist,2018,4,Criteo,Employee,Account Strategist,esce,2016,2018,2,9
+154,other,Manager,HR,2021,1,other,Senior,HR,vancouver island university,2020,2020,0,-1
+155,other,Lead,HR,2021,1,other,Head,Business,HEC,2019,2021,2,10
+156,other,VP,Operations,2021,1,other,VP,Business,ESSEC,2019,2021,2,20
+157,other,Senior,IT/Data,2021,1,other,Senior,Business,haute école de coaching,2014,2021,7,1
+158,other,Head,Business,2020,2,other,Employee,Business,esgc&f,2019,2020,1,6
+159,other,Senior,Marketing,2021,1,other,Manager,Marketing,università bocconi,2020,2021,1,7
+160,other,Employee,Business,2021,1,Criteo,Employee,Account Strategist,ESSCA,2019,2020,1,3
+161,other,Employee,Account Strategist,2021,1,other,Manager,Business,ipag business school,2021,2021,0,7
+162,other,Lead,Marketing,2021,1,other,Senior,HR,icn business school,2019,2021,2,8
+163,other,Director,Product,2020,2,other,Employee,IT/Data,GEM,2020,2020,0,14
+164,Criteo,Employee,IT/Data,2017,5,other,Employee,Business,ESCP,2016,2016,0,6
+165,other,Manager,Business,2021,1,other,Employee,Business,supdeweb,2020,2021,1,5
+166,other,Founder,Business,2015,7,Criteo,Employee,other,Mines,2014,2015,1,22
+167,other,Senior,Consultant,2019,3,other,Senior,Business,nicholls state university,2018,2019,1,13
+168,other,Head,Marketing,2020,2,other,Head,Business,neoma business school,2018,2020,2,14
+169,other,CXO,Finance,2016,6,other,Director,Marketing,SKEMA,2015,2016,1,16
+170,other,Lead,Product,2021,1,other,Manager,Product,sciences po,2021,2021,0,6
+171,other,Lead,Product,2021,1,other,Senior,Product,télécom paristech,2019,2021,2,9
+172,other,Senior,Marketing,2021,1,Criteo,Senior,Marketing,"business school iae, nice, france",2019,2021,2,12
+173,other,Employee,HR,2021,1,Criteo,Employee,Business,ecole de management de normandie,2019,2021,2,1
+174,other,Manager,Marketing,2020,2,Criteo,Employee,other,edc paris business school,2017,2020,3,15
+175,other,Manager,IT/Data,2020,2,Criteo,Manager,Marketing,telecom paristech,2018,2020,2,11
+176,other,Manager,other,2021,1,other,Employee,Consultant,idrac ecole supérieure de commerce en alternance,2018,2021,3,13
+177,other,CXO,Operations,2021,1,other,CXO,Business,Université Paris Dauphine,2019,2021,2,16
+178,other,Manager,Business,2019,3,other,Employee,IT,ebs - european business school paris,2018,2019,1,6
+179,other,Head,Marketing,2019,3,other,Director,IT,negocia aci business school,2018,2019,1,26
+180,other,Founder,Business,2019,3,Criteo,Employee,Product,HEC,2016,2017,1,4
+181,other,CXO,IT/Data,2019,3,other,Manager,IT/Data,epitech - european institute of technology,2017,2022,5,12
+182,other,Manager,Business,2022,0,other,Lead,IT,north carolina state university,2021,2022,1,9
+183,other,Manager,Business,2021,1,other,Manager,Business,rennes school of business,2019,2020,1,8
+184,other,Head,Product,2021,1,Criteo,Manager,Product,SUPELEC,2020,2021,1,5
+185,other,Founder,Business,2020,2,other,Founder,Business,duke fuqua school of business,2021,2022,1,10
+186,other,Head,Product,2022,0,other,Manager,Product,ecole centrale paris,2020,2021,1,6
+187,other,Lead,Product,2020,2,other,Founder,Business,utbm,2016,2022,6,16
+188,other,Manager,Product,2021,1,other,Senior,Product,SUPELEC,2020,2021,1,10
+189,other,Employee,IT/Data,2021,1,other,Employee,IT/Data,ecole polytechnique,2021,2021,0,7
+190,other,Manager,IT/Data,2021,1,other,Head,Product,iae france - ecoles universitaires de management,2018,2021,3,14
+191,other,Manager,Marketing,2021,1,other,Manager,Marketing,ebs paris - european business school,2019,2021,2,6
+192,other,Founder,Business,2017,5,Criteo,Senior,other,ecole centrale de marseille,2015,2016,1,13
+193,other,Founder,Business,2018,4,other,Employee,IT/Data,télécom paris,2017,2022,5,-1
+194,other,CXO,Business,2020,2,other,CXO,Business,SUPELEC,2019,2022,3,9
+195,other,CXO,Board/CEO,2018,4,other,Employee,other,université paris-saclay,2015,2022,7,4
+196,other,CXO,Business,2009,13,other,VP,Marketing,unknown,2008,2022,14,-1
+197,other,CXO,Business,2021,1,other,Employee,Board/CEO,INSEAD,2016,2022,6,7
+198,other,Employee,Consultant,2020,2,Criteo,Employee,HR,neoma business school,2021,2022,1,7
+199,other,CXO,HR,2021,1,Criteo,VP,HR,groupe igs,2020,2022,2,23
+200,other,Manager,Business,2019,3,other,Employee,other,SKEMA,2021,2022,1,9
+201,Criteo,Employee,Account Strategist,2017,5,other,Senior,Marketing,"university of california, los angeles",2016,2022,6,8
+202,other,Employee,other,2020,2,other,Employee,other,aix-marseille université,2020,2022,2,13
+203,other,Manager,Operations,2021,1,other,Manager,Business,école des ponts paristech,2020,2022,2,6
+204,other,CXO,HR,2020,2,other,Founder,Business,Université Paris Panthéon-sorbonne,2015,2022,7,16
+205,other,CXO,Board/CEO,2020,2,other,Founder,Business,sciences po,2017,2022,5,9
+206,other,Head,Product,2020,2,other,Employee,other,HEC,2019,2022,3,9
+207,other,Head,HR,2018,4,other,CXO,HR,Université Paris Panthéon-sorbonne,2016,2022,6,10
+208,other,Manager,Business,2021,1,other,Director,Business,HEC,2015,2022,7,1
+209,Criteo,Employee,IT/Data,2017,5,other,Manager,IT,polytech nantes,2012,2022,10,13
+210,other,CXO,Business,2021,1,other,Employee,Board/CEO,SKEMA,2017,2022,5,21
+211,other,Head,Business,2021,1,other,Senior,Business,GEM,2018,2022,4,7
+212,other,CXO,HR,2019,3,other,Employee,other,Université Paris Panthéon-sorbonne,2018,2022,4,15
+213,other,Founder,Business,2019,3,Criteo,Head,Business,unknown,2018,2022,4,-1
+214,other,Manager,Product,2016,6,other,CXO,IT/Data,école polytechnique,2015,2022,7,11
+215,other,Employee,HR,2019,3,other,Employee,other,uvsq université de versailles saint-quentin-en-yvelines,2019,2022,3,12
+216,other,President,other,2020,2,other,Employee,other,inasup,2018,2022,4,18
+217,Criteo,Senior,Quality,2020,2,other,Senior,IT/Data,SUPELEC,2018,2022,4,6
+218,other,Director,Quality,2020,2,other,Director,HR,unknown,2020,2022,2,-1
+219,other,Employee,other,2021,1,other,CXO,Board/CEO,wine & spirit education trust,2020,2022,2,0
+220,other,Employee,other,2021,1,other,Employee,Business,HEC,2018,2022,4,2
+221,other,Head,Finance,2020,2,Criteo,Lead,IT,ecole supérieure de commerce de bordeaux-ecole de management,2018,2022,4,12
+222,other,Head,IT/Data,2020,2,other,Senior,Marketing,Université Paris Dauphine,2020,2022,2,11
+223,other,Employee,Business,2015,7,other,Employee,Business,omnes education,2013,2022,9,-1
+224,other,Director,HR,2021,1,other,Director,HR,arts et métiers paristech - école nationale supérieure d'arts et métiers,2021,2022,1,11
+225,other,Head,HR,2020,2,other,Employee,other,omnes education,2020,2022,2,9
+226,other,Manager,Operations,2021,1,Criteo,Lead,IT,ESCP,2019,2022,3,11
+227,other,Director,Product,2021,1,other,Director,Product,stanford university graduate school of business,2020,2022,2,9
+228,other,Employee,IT/Data,2019,3,other,Employee,IT/Data,estice - international management,2019,2022,3,6

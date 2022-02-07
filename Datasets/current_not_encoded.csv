@@ -1,0 +1,213 @@
+,hierarchy_level,job_field,job_since,years_at_job,company2,hierarchy_level2,job_field2,school,approx_work_xp
+0,Lead,Product,avr. 2020 ,2,Criteo,Senior,Product,SUPELEC,8
+1,Chief,Marketing,mai 2018 ,4,other company,founder,Business,SUPELEC,31
+2,Head,Quality,nov. 2020 ,2,Criteo,Head,Quality,EUROMED,11
+3,Manager,Business,janv. 2021 ,1,Criteo,Senior,Business,ESSCA,4
+4,Manager,IT/Data,mars 2021 ,1,other company,Director,IT/Data,unknown,-1
+5,Partner,Business,janv. 2022 ,0,Criteo,Senior,Product,iae (business management school),13
+6,Employee,Business,juin 2020 ,2,other company,Partner,Marketing,IESEG,2
+7,Manager,Business,sept. 2020 ,2,Criteo,Employee,Account Strategist,Université Paris Panthéon-sorbonne,2
+8,Senior,IT/Data,avr. 2021 ,1,Criteo,Senior,IT/Data,university of plymouth,18
+9,Employee,HR,nov. 2021 ,1,other company,Employee,Product,Université Paris Panthéon-sorbonne,1
+10,Intern,Business,janv. 2022 ,0,other company,Intern,Business,EMLYON,0
+11,Employee,Account Strategist,mars 2021 ,1,Criteo,Intern,Account Strategist,EMLYON,3
+12,Intern,IT/Data,sept. 2018 ,4,other company,Director,Product,ecole centrale de paris,21
+13,Manager,IT/Data,avr. 2018 ,4,Criteo,Lead,Product,institut national des télécommunications,20
+14,Head,Finance,avr. 2021 ,1,Criteo,Director,Finance,"pace university (ny, ny us)",18
+15,Senior,IT/Data,janv. 2020 ,2,Criteo,Senior,Product,ecole supérieure d'electronique de l'ouest-eseo angers,13
+16,Employee,Business,août 2021 ,1,other company,Employee,Product,edc paris business school,2
+17,Partner,Business,déc. 2021 ,1,other company,Employee,HR,Université Paris Panthéon-sorbonne,9
+18,Partner,IT/Data,janv. 2022 ,0,Criteo,Head,Business,ecole de management de marseille,10
+19,Director,HR,févr. 2019 ,3,Criteo,Senior,HR,université de paris,18
+20,Partner,Marketing,sept. 2008 ,14,other company,Director,Marketing,unknown,-1
+21,Chief,IT/Data,nov. 2017 ,5,other company,Founder,IT,INSEAD,-1
+22,Employee,R&D,2021 ,1,other company,Senior,HR,sciences po,7
+23,Manager,Marketing,sept. 2021 ,1,other company,Employee,Consultant,exatice,1
+24,Employee,Account Strategist,déc. 2021 ,1,Criteo,Employee,Account Strategist,ecs (european communication school),3
+25,Intern,Marketing,janv. 2022 ,0,Criteo,Intern,Marketing,idrac business school,12
+26,Lead,Business,sept. 2020 ,2,Criteo,Senior,Business,audencia,13
+27,Manager,HR,janv. 2020 ,2,Criteo,Manager,Business,ensam/ ens cachan,10
+28,Employee,Account Strategist,janv. 2022 ,0,Criteo,Manager,Business,PSB,3
+29,Head,IT/Data,janv. 2020 ,2,Criteo,Senior,IT/Data,ensiie - école nationale supérieure d'informatique pour l'industrie et l'entreprise,17
+30,Head,Marketing,juin 2019 ,3,other company,Senior,Consultant,GEM,11
+31,Employee, ,janv. 2022 ,0,Criteo,Partner,Finance,ISC,7
+32,Senior,Product,janv. 2021 ,1,Criteo,Manager,Product,SUPELEC,7
+33,Employee,Board/CEO,juin 2017 ,5,other company,Director,Business,universität st.gallen (hsg),30
+34,Manager,Product,sept. 2019 ,3,other company,Senior,Consultant,neoma business school,10
+35,Employee, ,sept. 2021 ,1,Criteo,Intern,HR,ciffop,0
+36,Director,R&D,oct. 2021 ,1,Criteo,Senior,R&D,ciffop,12
+37,Employee,HR,oct. 2021 ,1,other company,Employee,HR,KEDGE,3
+38,Manager,Product,mai 2017 ,5,Criteo,Employee,Business,HEC,8
+39,Lead, ,janv. 2022 ,0,Criteo,Head,Business,ESCP,7
+40,Manager,Business,févr. 2020 ,2,other company,Director,Business,esg management school,8
+41,Chief,HR,janv. 2022 ,0,Criteo,Director,Business,london school of business and finance,11
+42,CEO,Board/CEO,sept. 2019 ,3,Criteo,Head,Business,ESSEC,9
+43,Lead,Product,sept. 2021 ,1,Criteo,Lead,HR,esgrh (anciennement irh),-1
+44,Lead,Business,sept. 2021 ,1,Criteo,Manager,Business,esc rennes - msc in ecommerce & international digital marketing,9
+45,Senior,Business,oct. 2020 ,2,other company,Manager,Business,iseg paris,12
+46,Employee,IT/Data,avr. 2020 ,2,other company,Employee,IT,insa lyon - institut national des sciences appliquées de lyon,3
+47,Head,Business,avr. 2021 ,1,Criteo,Chief,HR,Université Paris Dauphine,11
+48,Manager,Product,sept. 2019 ,3,other company,Senior,Consultant,Mines,6
+49,Senior,Business,juin 2020 ,2,Criteo,Manager,Product,sciences po,6
+50,Director,Business,avr. 2020 ,2,Criteo,Senior,Business,SKEMA,15
+51,Senior,Business,avr. 2021 ,1,Criteo,Manager,Business,inseec,9
+52,Director,Business,avr. 2021 ,1,Criteo,Senior,Product,SUPELEC,8
+53,Director, ,sept. 2021 ,1,Criteo,Director,Business,ESSEC,6
+54,Senior,IT/Data,mars 2021 ,1,Criteo,Employee,IT/Data,GEM,6
+55,Employee,HR,déc. 2021 ,1,other company,Employee,HR,groupe igs formation continue,4
+56,Manager,Business,mars 2020 ,2,other company,Director,Business,emlv - école de management léonard de vinci,9
+57,Lead,R&D,févr. 2018 ,4,other company,Senior,IT/Data,ehess - ecole des hautes etudes en sciences sociales,6
+58,Employee,R&D,mai 2020 ,2,other company,Employee,other,the university of glasgow,11
+59,Partner,Business,déc. 2020 ,2,Criteo,Manager,Product,massachusetts institute of technology,4
+60,Intern,Marketing,janv. 2020 ,2,Criteo,Employee,R&D,SKEMA,8
+61,Employee,Business,oct. 2018 ,4,other company,Manager,Business,ISC,20
+62,Chief,IT/Data,juil. 2019 ,3,Criteo,Vice,R&D,dublin city university,8
+63,Employee,R&D,oct. 2019 ,3,other company,Employee,HR,université pierre et marie curie,5
+64,Manager,IT/Data,juil. 2020 ,2,Criteo,Employee,IT,ib formation,11
+65,Head,Account Strategist,avr. 2021 ,1,Criteo,Head,Account Strategist,icd groupe igs,13
+66,Director,Business,août 2018 ,4,other company,Partner,other,neoma business school,-1
+67,Lead,Finance,juin 2018 ,4,other company,Employee,Consultant,ESSEC,8
+68,Employee,IT/Data,déc. 2017 ,5,other company,Employee,HR,université aix marseille,10
+69,CEO,Board/CEO,janv. 2021 ,1,Criteo,Employee,IT/Data,université d'evry-val d'essonne,7
+70,Employee,IT/Data,janv. 2019 ,3,other company,Employee,Product,"ionis-stm, école de double compétence",4
+71,Vice,Board/CEO,févr. 2021 ,1,Criteo,Head,R&D,sciences po,22
+72,Employee,R&D,mars 2020 ,2,other company,Intern,IT/Data,école polytechnique,3
+73,Lead,HR,oct. 2021 ,1,Criteo,Senior,HR,ecole de management strasbourg,10
+74,Lead,HR,sept. 2020 ,2,Criteo,Senior,IT/Data,dnipropetrovsk national university,11
+75,Employee,R&D,sept. 2019 ,3,Criteo,Intern,R&D,école des ponts paristech,-1
+76,Employee, ,mai 2019 ,3,other company,Employee,Marketing,des enjeux et des hommes,1
+77,Employee,Account Strategist,oct. 2021 ,1,other company,Employee,Account Strategist,neoma business school,2
+78,Employee,Business,mars 2021 ,1,other company,Employee,HR,neoma business school,3
+79,Employee,Marketing,juil. 2019 ,3,Criteo,Employee,R&D,GEM,4
+80,Senior,R&D,nov. 2021 ,1,other company,Intern,HR,university of south australia,-1
+81,Manager, ,avr. 2020 ,2,Criteo,Senior,Account Strategist,ESSEC,7
+82,Stagiaire,Finance,juil. 2021 ,1,other company,Stagiaire,Finance,ESCP,1
+83,Employee,Business,mars 2020 ,2,other company,Manager,Business,école multimédia,7
+84,Chief,Marketing,sept. 2021 ,1,other company,Employee,Marketing,ESSEC,25
+85,Employee,Finance,mai 2021 ,1,other company,Employee,Business,Université Paris Panthéon-sorbonne,5
+86,Partner,Business,févr. 2018 ,4,Criteo,Partner,Business,enc bessières,20
+87,Head,Business,janv. 2020 ,2,Criteo,Head,Business,unknown,-1
+88,Employee,HR,juil. 2019 ,3,Criteo,Employee,Product,université de picardie jules verne (amiens),14
+89,Manager,R&D,nov. 2020 ,2,Criteo,Lead,Product,ESSEC,7
+90,VP, ,nov. 2021 ,1,other company,Employee,Board/CEO,duke university school of law,25
+91,Manager,IT/Data,oct. 2019 ,3,other company,Manager,Product,université pierre et marie curie (paris vi),19
+92,Employee,Product,oct. 2018 ,4,other company,Employee,Product,PSB,5
+93,Manager,Product,mars 2019 ,3,other company,Manager,Business,ucd michael smurfit graduate school of business,6
+94,Senior,IT/Data,avr. 2021 ,1,Criteo,Employee,IT/Data,télécom sudparis,4
+95,Manager,IT/Data,juin 2020 ,2,Criteo,Manager,IT/Data,GEM,11
+96,Manager,Business,oct. 2021 ,1,other company,Senior,Consultant,lund university school of economics and management,7
+97,Employee,Account Strategist,juil. 2017 ,5,other company,Senior,Consultant,SKEMA,5
+98,Manager,Business,mars 2021 ,1,other company,Employee,Business,neoma business school,3
+99,Employee,Account Strategist,oct. 2021 ,1,other company,Senior,IT,ISC,5
+100,Manager,Business,janv. 2021 ,1,Criteo,Employee,Business,HEC,8
+101,Manager,Marketing,mars 2020 ,2,other company,Employee,Consultant,institut des sciences et techniques des yvelines,11
+102,Lead,Account Strategist,avr. 2021 ,1,Criteo,Partner,Business,institut d'etudes politiques de paris (sciences po),11
+103,Director, ,mai 2021 ,1,Criteo,Intern,Finance,Université Paris Dauphine,19
+104,Employee,Account Strategist,mai 2021 ,1,Criteo,Employee,Account Strategist,SKEMA,1
+105,Employee,IT/Data,oct. 2021 ,1,other company,Employee,IT,EPITA,6
+106,Employee,Account Strategist,avr. 2014 ,8,other company,Employee,Marketing,ppa business school,11
+107,VP,Business,mai 2018 ,4,other company,Director,Finance,HEC,17
+108,Manager,Business,juil. 2021 ,1,Criteo,Partner,Marketing,polytech'tours,10
+109,Lead, ,sept. 2019 ,3,other company,Employee,IT/Data,supinfo international university,10
+110,Employee,Account Strategist,août 2021 ,1,other company,Employee,Consultant,IESEG,2
+111,Director,Business,mars 2020 ,2,Criteo,Head,Business,école de biologie industrielle,19
+112,Employee,HR,mars 2016 ,6,other company,Employee,Finance,université paris-est créteil (upec),12
+113,Manager,IT/Data,avr. 2018 ,4,Criteo,Lead,IT/Data,kth royal institute of technology,16
+114,Manager,Finance,janv. 2017 ,5,Criteo,Manager,Finance,Université Paris Panthéon-sorbonne,8
+115,Employee,HR,mai 2019 ,3,other company,Employee,HR,toulouse school of management,14
+116,VP,Finance,avr. 2021 ,1,Criteo,Senior,Finance,certificat d'aptitude à la profession d'avocat,15
+117,Senior, ,avr. 2021 ,1,Criteo,Employee,Finance,management center innsbruck,6
+118,Senior,Account Strategist,avr. 2017 ,5,other company,Manager,Product,esc toulouse,7
+119,Senior, ,mars 2017 ,5,other company,Employee,IT,HEC,8
+120,Internship,Business,juil. 2021 ,1,other company,Employee,Business,SUPELEC,1
+121,Employee,Legal,juil. 2019 ,3,other company,Manager,Legal,ESSEC,11
+122,Senior,Account Strategist,oct. 2021 ,1,Criteo,Employee,Account Strategist,KEDGE,3
+123,Employee,Business,sept. 2021 ,1,other company,Chief,HR,Université Paris Dauphine,1
+124,Senior,Account Strategist,avr. 2021 ,1,Criteo,Employee,Account Strategist,KEDGE,5
+125,Manager,IT/Data,janv. 2020 ,2,Criteo,Employee,IT,louis armand,24
+126,Employee,Legal,janv. 2021 ,1,other company,Employee,other,admission to the paris bar (capa-avocat),25
+127,Intern,Finance,sept. 2020 ,2,other company,Employee,Finance,PSB,1
+128,Employee,IT/Data,janv. 2022 ,0,other company,Intern,IT/Data,HEC,1
+129,Employee,IT/Data,2021 ,1,other company,Employee,unknown,EFREI,4
+130,Employee,Business,mars 2021 ,1,other company,Manager,IT,HEC,2
+131,Employee,IT/Data,oct. 2021 ,1,Criteo,Intern,IT/Data,HEC,1
+132,Intern, ,juin 2015 ,7,other company,Intern,Finance,ESSCA,17
+133,Employee,IT/Data,janv. 2020 ,2,Criteo,Employee,IT,ingésup,9
+134,Senior,Business,juil. 2021 ,1,Criteo,Employee,Business,ESSEC,2
+135,Employee,R&D,août 2021 ,1,other company,Employee,IT,Université Paris Panthéon-sorbonne,3
+136,Stagiaire,Finance,janv. 2022 ,0,other company,Stagiaire,Legal,Université Paris Panthéon-sorbonne,2
+137,Employee, ,mai 2021 ,1,other company,Employee,Consultant,université de rennes 1,1
+138,Lead,IT/Data,févr. 2017 ,5,other company,Employee,IT/Data,"university of california, santa barbara",9
+139,Employee, ,févr. 2021 ,1,Criteo,Employee,Legal,ESCP,2
+140,Employee,IT/Data,sept. 2020 ,2,other company,Employee,IT,EFREI,-1
+141,Manager,Product,déc. 2019 ,3,Criteo,Employee,IT/Data,HEC,7
+142,Head,Account Strategist,janv. 2021 ,1,Criteo,Manager,Business,SKEMA,11
+143,Employee,Legal,janv. 2021 ,1,other company,Employee,other,efb,5
+144,Board,Board/CEO,août 2020 ,2,other company,Director,Business,HEC,34
+145,Lead,IT/Data,janv. 2020 ,2,Criteo,Lead,IT/Data,supinfo,9
+146,Senior,Finance,oct. 2019 ,3,other company,Employee,Finance,HEC,11
+147,Employee,Marketing,janv. 2022 ,0,other company,Employee,Account Strategist,Université Paris Dauphine,1
+148,Head,Business,févr. 2020 ,2,Criteo,Lead,Marketing,efficom,9
+149,Employee,IT/Data,sept. 2021 ,1,other company,Employee,IT/Data,imperial college london,4
+150,Intern,Marketing,sept. 2021 ,1,other company,Employee,Business,ESI,0
+151,Manager,Product,sept. 2020 ,2,Criteo,Employee,IT/Data,institut national des sciences appliquées de lyon,9
+152,Lead,IT/Data,oct. 2021 ,1,Criteo,Lead,IT,the university of manchester,5
+153,Employee,IT/Data,sept. 2019 ,3,other company,Employee,IT,ECE,3
+154,Intern,Account Strategist,févr. 2021 ,1,other company,Employee,unknown,SKEMA,-1
+155,Employee,Business,janv. 2022 ,0,other company,Employee,Business,mip-politecnico di milano,3
+156,Employee, ,févr. 2019 ,3,other company,Employee,Business,the london school of economics and political science (lse),5
+157,Senior,IT/Data,juin 2021 ,1,other company,Employee,IT/Data,le laptop,3
+158,Employee,Account Strategist,juin 2021 ,1,Criteo,Intern,Account Strategist,ISC,2
+159,Manager,IT/Data,avr. 2020 ,2,Criteo,Employee,IT/Data,rwth aachen university,4
+160,Employee, ,févr. 2021 ,1,Criteo,Employee,Finance,Université Paris Panthéon-sorbonne,5
+161,Manager,Product,déc. 2021 ,1,Criteo,Manager,Product,ecole centrale de lyon,11
+162,Employee,Product,janv. 2021 ,1,other company,Employee,Product,ISC,7
+163,Employee, ,nov. 2021 ,1,other company,Employee,other,ensae paris,-1
+164,Employee,IT/Data,mars 2021 ,1,Criteo,Employee,IT/Data,université paris 8,12
+165,Employee,IT/Data,juin 2020 ,2,other company,Employee,IT/Data,ensae paristech,4
+166,Employee,IT/Data,oct. 2021 ,1,other company,Employee,IT,ESIEE,1
+167,Employee,IT/Data,mars 2021 ,1,Criteo,Senior,IT/Data,ecole centrale de lyon,9
+168,Intern,R&D,sept. 2021 ,1,other company,Employee,Business,ensta paris,0
+169,Employee,IT/Data,janv. 2020 ,2,other company,Senior,R&D,université nice sophia antipolis (membre d'université côte d'azur),9
+170,Manager, ,août 2015 ,7,other company,Employee,Consultant,national chiao tung university,15
+171,Employee,Marketing,oct. 2016 ,6,other company,Employee,Marketing,Université Paris Panthéon-sorbonne,5
+172,Employee,IT/Data,avr. 2020 ,2,other company,Employee,IT,EPITA,3
+173,Employee,IT/Data,juil. 2019 ,3,other company,Employee,IT/Data,institut national des sciences appliquées de lyon,7
+174,Employee, ,oct. 2021 ,1,Criteo,Lead,Finance,ESSEC,1
+175,Employee, ,sept. 2019 ,3,Criteo,Intern,R&D,école normale supérieure paris-saclay,3
+176,Lead,IT/Data,déc. 2014 ,8,Criteo,Stagiaire,IT,EPITA,9
+177,Lead,IT/Data,mai 2019 ,3,Criteo,Employee,IT/Data,Mines,14
+178,Lead,IT/Data,janv. 2021 ,1,Criteo,Lead,IT/Data,Université Paris Dauphine,9
+179,Manager,IT/Data,juil. 2021 ,1,Criteo,Manager,Business,conservatoire national des arts et métiers / cnam,15
+180,Employee,Account Strategist,janv. 2022 ,0,other company,Lead,Business,groupe ecole supérieure de commerce de dijon-bourgogne,3
+181,Director,Business,janv. 2018 ,4,Criteo,Director,HR,ESSEC,21
+182,Manager,Business,janv. 2021 ,1,Criteo,Manager,Business,Université Paris Panthéon-sorbonne,3
+183,Head, ,mars 2020 ,2,other company,Head,Business,EUROMED,14
+184,Lead,Business,mai 2021 ,1,other company,Senior,Business,EMLYON,20
+185,Senior,Business,mai 2021 ,1,other company,Senior,Business,universitat ramon llull,9
+186,Director,Finance,mars 2018 ,4,other company,Employee,Finance,ESSEC,10
+187,Manager,Product,mai 2020 ,2,other company,Senior,Consultant,SUPELEC,6
+188,Senior,Business,nov. 2020 ,2,other company,Employee,Business,emlv - école de management léonard de vinci,11
+189,Senior,Business,sept. 2020 ,2,Criteo,Senior,Business,ecole nationale supérieure des télécommunications de bretagne,20
+190,Manager,Marketing,juin 2017 ,5,Criteo,Partner,IT/Data,université de provence (aix-marseille i),-1
+191,Partner,Marketing,mars 2017 ,5,Criteo,Manager,Business,the university of western australia,16
+192,VP,Business,oct. 2021 ,1,Criteo,VP,Business,université paris nord- paris 13,27
+193,Lead,Marketing,févr. 2021 ,1,Criteo,Senior,Account Strategist,école supérieure des sciences commerciales d'angers,5
+194,Employee,HR,mars 2020 ,2,other company,Employee,HR,inseec,6
+195,Head,Product,sept. 2020 ,2,Criteo,Lead,Marketing,ecole supérieure de commerce de dijon,15
+196,Lead,IT/Data,avr. 2021 ,1,Criteo,Employee,Product,SKEMA,9
+197,Employee,Account Strategist,nov. 2020 ,2,other company,Manager,Product,Université Paris Dauphine,1
+198,Director,Marketing,mars 2015 ,7,other company,Director,Marketing,media management,16
+199,Intern,IT/Data,mars 2016 ,6,other company,Employee,Consultant,esiea - école d'ingénieur·e·s d'un numérique utile,17
+200,VP,HR,avr. 2021 ,1,Criteo,Director,Marketing,alma mater studiorum - università di bologna,15
+201,Senior,IT/Data,avr. 2021 ,1,Criteo,Employee,IT/Data,université de tokyo,4
+202,Partner,Business,janv. 2021 ,1,Criteo,Partner,Business,HEC,9
+203,Director,Finance,avr. 2021 ,1,other company,Manager,Finance,université de paris,-1
+204,Chief,Board/CEO,nov. 2019 ,3,other company,Chief,Business,unknown,-1
+205,Senior,HR,janv. 2022 ,0,Criteo,Head,HR,INSEAD,4
+206,Manager,HR,févr. 2018 ,4,Criteo,Employee,HR,macquarie university,12
+207,Employee,Business,janv. 2022 ,0,other company,Employee,Consultant,emlv - école de management léonard de vinci,2
+208,Manager,Quality,janv. 2021 ,1,Criteo,Manager,Business,université de perpignan via domitia,15
+209,Employee,Marketing,sept. 2020 ,2,Criteo,Employee,Business,KEDGE,4
+210,Manager,Product,nov. 2019 ,3,other company,Manager,Product,ecole centrale paris,7
+211,Director,Finance,oct. 2021 ,1,other company,Head,Finance,Université Paris Dauphine,10
