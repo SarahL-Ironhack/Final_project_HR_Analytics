@@ -8,7 +8,8 @@
 - [x] Business Problem 
 - [x] Data collection
 - [x] Data cleaning
-- [x]  
+- [x] Data map 
+- [x] Insights
 - [x] Presentation 
 
 ### 1. Business problem
@@ -41,6 +42,9 @@ In order to be able to do a comparison and anticipate future departures from Cri
 
 1. Concatenate the different datasets 
 2. Drop useless columns to keep only relevant information (Scrapper provides 60 different columns of information)
-3. Encode categorical data
-4. 
-5. 
+3. Group some of the categorical data to make them usable (ie: Schools or hierarchy level)
+4. Encode categorical data
+
+## 4. Data map
+
+Please check excel file.
