@@ -3,14 +3,14 @@
 # FINAL PROJECT - CRITEO HR ANALYTICS
 
 ## What you can find in this repository 
-* __Code__ : different sets of code 
- * Part 1 of cleaning (essentially reducing the number of columns)
- * The whole encoding part 
- * Supervised machine learning implementation 
+* __Code__ : different sets of code  
+    * Part 1 of cleaning (essentially reducing the number of columns)
+    * The whole encoding part 
+    * Supervised machine learning implementation 
 * __Datasets__ : Data sets for employees (current) and former employees
- * initial_datasets to find very first csv files that were scrapped
- * csv files with data at different stages (cleaned but not encoded, encoded, with prediction) 
- * the Data map with explanation of all data types and encoding choices
+    * initial_datasets to find very first csv files that were scrapped
+    * csv files with data at different stages (cleaned but not encoded, encoded, with prediction) 
+    * the Data map with explanation of all data types and encoding choices
 * __Graphs_screenshots__ : pictures loaded from jupyter to be implemented in Spyder for the streamlit
 * __criteo_st__ : the whole streamlit code (presentation with graphs)
 
