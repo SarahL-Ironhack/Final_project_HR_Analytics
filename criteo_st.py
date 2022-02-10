@@ -329,11 +329,6 @@ st.markdown('---')
 
 ## FINAL
 st.header('Thank you for your attention !')
-st.image(r"/Users/Sarah/Documents/Final_project_HR_Analytics/Graphs_screenshots/questions.jpg")
+st.image("/Users/Sarah/Documents/Final_project_HR_Analytics/Graphs_screenshots/questions.jpg")
 
 
-import pkg_resources
-installed_packages = pkg_resources.working_set
-installed_packages_list = sorted(["%s==%s" % (i.key, i.version)
-   for i in installed_packages])
-print(installed_packages_list)
