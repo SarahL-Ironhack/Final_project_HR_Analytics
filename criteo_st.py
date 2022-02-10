@@ -321,9 +321,10 @@ st.markdown('---')
 ## CONCLUSION
 
 st.header('Conclusion')
-st.markdown("- On average, employees with prediction to leave have both a longer global working experience, and have been longer at their current job. ")
-st.markdown("- 100% of people predicted to leave the company have another company than Criteo as last company (meaning they probably didn't change jobs since their arrival")
-st.markdown("- It seems once employees reach 3 years at their job is when they shift from staying to leaving : set a milestone here to do a global assessment and set future steps to take.")
+st.markdown('**Given the information we have:**')
+st.markdown("- HR's could set a milestone when employees reach **3 years at the same position** (point at which there are as many resignations as people who stay) ")
+st.markdown("- Employees could at that point be offered some **training, a horizontal or vertical career change** ")
+st.markdown("- The company can also use this information to **anticipate needed recruitments** and have a smoother turn-over")
 
 st.markdown('---')
 
