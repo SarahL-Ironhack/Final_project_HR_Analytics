@@ -1,13 +1,5 @@
-numpy @ file:///C:/ci/numpy_and_numpy_base_1626271900803/work
-numpydoc @ file:///tmp/build/80754af9/numpydoc_1605117425582/work
-pandas @ file:///C:/ci/pandas_1635506685681/work
-pandas-profiling @ git+https://github.com/pandas-profiling/pandas-profiling.git@fa9ff81fc6316a2daa903f62957ec755ad93d725
 plotly==5.5.0
 plotly-express==0.4.1
-scikit-image==0.18.3
-scikit-learn @ file:///C:/ci/scikit-learn_1642617276183/work
-scikit-learn-intelex==2021.20210714.120553
-scipy @ file:///C:/ci/scipy_1630606917240/work
-seaborn @ file:///tmp/build/80754af9/seaborn_1629307859561/work
-sklearn==0.0
 streamlit==1.5.0
+numpy==1.20.2
+pandas==1.2.4
