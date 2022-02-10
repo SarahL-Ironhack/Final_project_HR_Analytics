@@ -20,7 +20,6 @@
 - [x] Business Problem 
 - [x] Data collection
 - [x] Data cleaning
-- [x] Data map 
 - [x] Insights
 - [x] Presentation 
 
@@ -54,6 +53,11 @@ In order to be able to do a comparison and anticipate future departures from Cri
 3. Group some of the categorical data to make them usable (ie: Schools or hierarchy level)
 4. Encode categorical data
 
-### 4. Data map
+### 4. Insights
+Given the information we have:
+- HR's could set a milestone when employees reach 3 years at the same position (point at which there are as many resignation as people who stay) 
+- Employees could at that point be offered some training, a horizontal or vertical career change 
+- The company can also use this information to anticipate needed recruitments and have a smoother turn-over
 
-Please check excel file.
+### 5. Presentation 
+
