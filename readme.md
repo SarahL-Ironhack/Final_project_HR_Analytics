@@ -2,6 +2,18 @@
 
 # FINAL PROJECT - CRITEO HR ANALYTICS
 
+## What you can find in this repository 
+* __Code__ : different sets of code 
+ * Part 1 of cleaning (essentially reducing the number of columns)
+ * The whole encoding part 
+ * Supervised machine learning implementation 
+* __Datasets__ : Data sets for employees (current) and former employees
+ * initial_datasets to find very first csv files that were scrapped
+ * csv files with data at different stages (cleaned but not encoded, encoded, with prediction) 
+ * the Data map with explanation of all data types and encoding choices
+* __Graphs_screenshots__ : pictures loaded from jupyter to be implemented in Spyder for the streamlit
+* __criteo_st__ : the whole streamlit code (presentation with graphs)
+
 
 ## SUMMARY 
 
@@ -15,13 +27,10 @@
 ### 1. Business problem
  
 __*Criteo, What do they do ?*__  
- Criteo is a Tech company who provides personalised retargeting that works with Internet retailers to serve online display advertisements to consumers. 
+Criteo is a Tech company who provides personalised retargeting to Internet retailers to serve online display advertisements to consumers.
 
 __*Aim of this case*__  
- Understand the reasons that push Criteo's employees to leave the company:
-- Their profile (educational background, age range etc.)
-- Their current job responsibility level
-- Who today is more at risk to leave ?
+Prediction of which employees are at risk of quitting/leaving from Criteo.
  
 ### 2. Data collection 
  
@@ -45,6 +54,6 @@ In order to be able to do a comparison and anticipate future departures from Cri
 3. Group some of the categorical data to make them usable (ie: Schools or hierarchy level)
 4. Encode categorical data
 
-## 4. Data map
+### 4. Data map
 
 Please check excel file.
