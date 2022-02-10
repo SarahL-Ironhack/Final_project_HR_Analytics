@@ -79,7 +79,7 @@ st.header('3. Exploratory data analysis')
 
 st.subheader('Current employees dataset')
 
-emp = pd.read_csv(r"C:\Users\Sarah\Documents\Final_project_HR_Analytics\Datasets\emp_with_pred.csv")
+emp = pd.read_csv("https://github.com/SarahL-Ironhack/Final_project_HR_Analytics/blob/main/Datasets/emp_with_pred.csv")
 emp.drop(['Unnamed: 0.1'],axis=1, inplace=True)
 
 emp.hierarchy_level = np.where((emp.hierarchy_level=='Vice'),
@@ -143,7 +143,7 @@ st.markdown("""---""")
 
 ## FORMER EMPLOYEES
 st.subheader('Former employees dataset')
-former = pd.read_csv(r"C:\Users\Sarah\Documents\Final_project_HR_Analytics\Datasets\former_not_encoded.csv")
+former = pd.read_csv("https://github.com/SarahL-Ironhack/Final_project_HR_Analytics/blob/main/Datasets/former_not_encoded.csv")
 former.drop(['Unnamed: 0'],axis=1,inplace=True)
 
 hierarch_form = former.groupby('hierarchy_level',as_index=False)['job_field'].count()
