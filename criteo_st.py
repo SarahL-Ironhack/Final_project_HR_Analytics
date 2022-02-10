@@ -17,7 +17,7 @@ st.sidebar.markdown("**Sarah Léouffre**")
 st.sidebar.markdown("**Date**: February 11th, 2021")
 st.sidebar.markdown("Paris | DAFT Nov2021")
 
-st.sidebar.image(r"/Users/Sarah/Pictures/criteo-map.jpg")
+st.sidebar.image(r"/Users/Sarah/Documents/Final_project_HR_Analytics/Graphs_screenshots/criteo-map.jpg")
 
 st.sidebar.markdown('**Summary**')
 st.sidebar.markdown('**1. About the data**')
@@ -26,7 +26,7 @@ st.sidebar.markdown('**3. Exploratory data analysis**')
 st.sidebar.markdown('**4. Models implementation and choice**')
 st.sidebar.markdown('**5. Main results**')
 
-st.sidebar.image(r"/Users/Sarah/Pictures/ironhack_logo.png")
+st.sidebar.image(r"/Users/Sarah/Documents/Final_project_HR_Analytics/Graphs_screenshots/ironhack_logo.png")
 
 
 
@@ -46,7 +46,7 @@ expander1 = st.expander('Click here to see details!', expanded = False)
 with expander1:
     col1, col2 = st.columns(2)
     with col1: 
-        st.image(r"/Users/Sarah/Pictures/phantom_logo.png",use_column_width='auto')
+        st.image(r"/Users/Sarah/Documents/Final_project_HR_Analytics/Graphs_screenshots/phantom_logo.png",use_column_width='auto')
     with col2:
         st.markdown('- The data was collected by scrapping **LinkedIn** profiles thanks to **PhantomBuster**')
         st.markdown('- Initially scrapped **220 profiles of current employees** + **231 profiles who marked Criteo as their former employer**')
