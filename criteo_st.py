@@ -17,7 +17,7 @@ st.sidebar.markdown("**Sarah Léouffre**")
 st.sidebar.markdown("**Date**: February 11th, 2021")
 st.sidebar.markdown("Paris | DAFT Nov2021")
 
-st.sidebar.image(r"/Users/Sarah/Documents/Final_project_HR_Analytics/Graphs_screenshots/criteo-map.jpg")
+st.sidebar.image("https://github.com/SarahL-Ironhack/Final_project_HR_Analytics/blob/main/Graphs_screenshots/criteo-map.jpg")
 
 st.sidebar.markdown('**Summary**')
 st.sidebar.markdown('**1. About the data**')
