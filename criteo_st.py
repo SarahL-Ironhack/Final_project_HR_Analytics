@@ -17,7 +17,7 @@ st.sidebar.markdown("**Sarah Léouffre**")
 st.sidebar.markdown("**Date**: February 11th, 2021")
 st.sidebar.markdown("Paris | DAFT Nov2021")
 
-st.sidebar.image("https://github.com/SarahL-Ironhack/Final_project_HR_Analytics/blob/main/Graphs_screenshots/criteo-map.jpg")
+st.sidebar.image(r"/Users/Sarah/Documents/Final_project_HR_Analytics/Graphs_screenshots/criteo-map.jpg")
 
 st.sidebar.markdown('**Summary**')
 st.sidebar.markdown('**1. About the data**')
@@ -26,7 +26,7 @@ st.sidebar.markdown('**3. Exploratory data analysis**')
 st.sidebar.markdown('**4. Models implementation and choice**')
 st.sidebar.markdown('**5. Main results**')
 
-st.sidebar.image("https://github.com/SarahL-Ironhack/Final_project_HR_Analytics/blob/main/Graphs_screenshots/ironhack_logo.png")
+st.sidebar.image(r"/Users/Sarah/Documents/Final_project_HR_Analytics/Graphs_screenshots/ironhack_logo.png")
 
 
 
@@ -46,13 +46,13 @@ expander1 = st.expander('Click here to see details!', expanded = False)
 with expander1:
     col1, col2 = st.columns(2)
     with col1: 
-        st.image("https://github.com/SarahL-Ironhack/Final_project_HR_Analytics/blob/main/Graphs_screenshots/phantom_logo.png",use_column_width='auto')
+        st.image(r"/Users/Sarah/Documents/Final_project_HR_Analytics/Graphs_screenshots/phantom_logo.png",use_column_width='auto')
     with col2:
         st.markdown('- The data was collected by scrapping **LinkedIn** profiles thanks to **PhantomBuster**')
         st.markdown('- Initially scrapped **220 profiles of current employees** + **231 profiles who marked Criteo as their former employer**')
         st.markdown('- Raw datasets included **60 columns** of various information (profileUrl, imageUrl, School, skills etc.)')
         st.markdown(' - All data imported as **object type**')
-    st.image("https://github.com/SarahL-Ironhack/Final_project_HR_Analytics/blob/main/Graphs_screenshots/raw_columns.png")
+    st.image(r"/Users/Sarah/Documents/Final_project_HR_Analytics/Graphs_screenshots/raw_columns.png")
 
 
 
@@ -72,14 +72,14 @@ with expander2:
 
 
 
-    st.image("https://github.com/SarahL-Ironhack/Final_project_HR_Analytics/blob/main/Graphs_screenshots/data_clean.jpg",use_column_width='auto')
+    st.image(r"/Users/Sarah/Documents/Final_project_HR_Analytics/Graphs_screenshots/data_clean.jpg",use_column_width='auto')
 
 ## PART 3
 st.header('3. Exploratory data analysis')
 
 st.subheader('Current employees dataset')
 
-emp = pd.read_csv("https://github.com/SarahL-Ironhack/Final_project_HR_Analytics/blob/main/Datasets/emp_with_pred.csv")
+emp = pd.read_csv(r"C:\Users\Sarah\Documents\Final_project_HR_Analytics\Datasets\emp_with_pred.csv")
 emp.drop(['Unnamed: 0.1'],axis=1, inplace=True)
 
 emp.hierarchy_level = np.where((emp.hierarchy_level=='Vice'),
@@ -143,7 +143,7 @@ st.markdown("""---""")
 
 ## FORMER EMPLOYEES
 st.subheader('Former employees dataset')
-former = pd.read_csv("https://github.com/SarahL-Ironhack/Final_project_HR_Analytics/blob/main/Datasets/former_not_encoded.csv")
+former = pd.read_csv(r"C:\Users\Sarah\Documents\Final_project_HR_Analytics\Datasets\former_not_encoded.csv")
 former.drop(['Unnamed: 0'],axis=1,inplace=True)
 
 hierarch_form = former.groupby('hierarchy_level',as_index=False)['job_field'].count()
@@ -229,14 +229,14 @@ with expander5:
     col1, col2 , col3 = st.columns(3)
     with col1:
         st.text('Decision tree with \nmax_depth 3 ')
-        st.image("https://github.com/SarahL-Ironhack/Final_project_HR_Analytics/blob/main/Graphs_screenshots/decision_tree.png")
+        st.image(r"/Users/Sarah/Documents/Final_project_HR_Analytics/Graphs_screenshots/decision_tree.png")
     with col2:
         st.text('Confusion matrix')
-        st.image("https://github.com/SarahL-Ironhack/Final_project_HR_Analytics/blob/main/Graphs_screenshots/dt_confusion_matrix.png")
+        st.image(r"/Users/Sarah/Documents/Final_project_HR_Analytics/Graphs_screenshots/dt_confusion_matrix.png")
     with col3:
         st.text('Roc-Auc')
-        st.image("https://github.com/SarahL-Ironhack/Final_project_HR_Analytics/blob/main/Graphs_screenshots/dt_roc_auc.png")
-    st.image("https://github.com/SarahL-Ironhack/Final_project_HR_Analytics/blob/main/Graphs_screenshots/nineteen.png")
+        st.image(r"/Users/Sarah/Documents/Final_project_HR_Analytics/Graphs_screenshots/dt_roc_auc.png")
+    st.image(r"/Users/Sarah/Documents/Final_project_HR_Analytics/Graphs_screenshots/nineteen.png")
 ## PART 5 MAIN RESULTS
 
 st.header('5. Main results')
@@ -329,4 +329,11 @@ st.markdown('---')
 
 ## FINAL
 st.header('Thank you for your attention !')
-st.image("https://github.com/SarahL-Ironhack/Final_project_HR_Analytics/blob/main/Graphs_screenshots/questions.jpg")
+st.image(r"/Users/Sarah/Documents/Final_project_HR_Analytics/Graphs_screenshots/questions.jpg")
+
+
+import pkg_resources
+installed_packages = pkg_resources.working_set
+installed_packages_list = sorted(["%s==%s" % (i.key, i.version)
+   for i in installed_packages])
+print(installed_packages_list)
