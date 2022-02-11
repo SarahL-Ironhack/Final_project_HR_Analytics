@@ -119,7 +119,7 @@ years2 = years[(years.years_at_job >= start_year) & (years.years_at_job <= end_y
 
 ## BAR CHART 2
 fig2 = go.Figure(
-    data=[go.Bar(x=years2.years_at_job, y=years2.job_field, text=hierarch['job_field'],
+    data=[go.Bar(x=years2.years_at_job, y=years2.job_field, text=years2['job_field'],
                  marker_color=px.colors.sequential.Oranges,
         textposition='auto')],
     layout_title_text="Frequency distribution of number of years in current job",
