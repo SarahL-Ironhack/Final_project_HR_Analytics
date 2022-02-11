@@ -34,7 +34,7 @@ st.sidebar.image("Graphs_screenshots/ironhack_logo.png")
 st.title('Criteo employees departure analysis')
 
 st.header('Business problem')
-business_pb = '<p style="font-family:sans-serif; color:Orange; font-size: 28px;"><b>Prediction of which employees are at risk of quitting/leaving from Criteo.</b></p>'
+business_pb = '<p style="font-family:sans-serif; color:Orange; font-size: 28px;"><b>Predict which employees are at risk of quitting/leaving from Criteo.</b></p>'
 st.markdown(business_pb, unsafe_allow_html=True)
 st.header('About Criteo')
 about_criteo = '<p style="font-family:sans-serif; color:Orange; font-size: 28px;">Criteo is a Tech company who provides personalised retargeting to Internet retailers to serve online display advertisements to consumers.</p>'
